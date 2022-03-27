@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#container
+{
+    background-color: white;
+    text-align: center;
+    width: 70%;
+    height: 35em;
+    margin: 5% 5%;
+    padding: 0% 0%;
+}
+#buttondiv
+{
+    display: block;
+    float: right;
+    position: relative;
+    width: 78%;
+    text-align: center;
+    margin: 0% 0%;
+    padding: 0;
+    border: 4px solid cadetblue;
+    background-color: yellowgreen;
+    border-radius: 20px;
+}
+button
+{
+    margin: 2% 1%;
+    width: 17%;
+    height: 4em;
+    font-size: 15px;
+    font-family: fantasy;
+    background-color: rgb(255, 255, 255);
+    color: rgb(65, 20, 20);
+    border-radius: 27px;
+}
+canvas
+{
+    display: block;
+    position: relative;
+    float: right;
+    border: 4px solid cadetblue;
+    margin: 0;
+    border-radius: 20px;
+}
+
+#styleShape
+{
+    background-color: yellowgreen;
+    width: 19%;
+    border: 5px solid cadetblue;
+    height: 34.4em;
+}
+label
+{
+    font-size: 40px;
+    margin: 0% 0%;
+    padding: 21% 0%;
+    display: block;
+    color: #251e80;
+    font-weight: bolde
+}
+input{
+    width: 50%;
+    height: 5em;
+}
